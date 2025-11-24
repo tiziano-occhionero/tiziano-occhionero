@@ -9,6 +9,7 @@
 *   **Sito Web Personale:** [cvtizianoocchionero.altervista.org](https://cvtizianoocchionero.altervista.org)
 *   **Indirizzo:** Viale Franco Angeli 87, 00155, Roma, Italia
 *   **Telefono:** (+39) 3491365231
+*   **Curriculum Europass:** [Visualizza il mio CV Europass](https://github.com/tiziano-occhionero/tiziano-occhionero/blob/main/CV_Tiziano-Occhionero.pdf)
 
 ---
 ## PRESENTAZIONE

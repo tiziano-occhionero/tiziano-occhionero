@@ -4,7 +4,6 @@
 ## CONTATTI
 ---
 *   **Email:** [tiziano.occhionero@gmail.com](mailto:tiziano.occhionero@gmail.com)
-*   **GitHub:** [github.com/tiziano-occhionero](https://github.com/tiziano-occhionero)
 *   **LinkedIn:** [linkedin.com/in/tizianoocchionero](https://linkedin.com/in/tizianoocchionero)
 *   **Sito Web Personale:** [cvtizianoocchionero.altervista.org](https://cvtizianoocchionero.altervista.org)
 *   **Indirizzo:** Viale Franco Angeli 87, 00155, Roma, Italia

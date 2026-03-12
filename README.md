@@ -13,11 +13,22 @@
 ---
 ## PRESENTAZIONE
 ---
-Sviluppatore full-stack con competenze consolidate nella realizzazione di applicazioni web, dal back-end all'integrazione con il front-end. Ho un solido background nella grafica, a cui unisco la passione per lo sviluppo di siti responsive e cross-browser, curando la trasposizione pixel-perfect di mockup e l'adattamento di wireframe. Possiedo esperienza con WordPress e WooCommerce e competenze nei concetti UX/UI con strumenti come Figma e Adobe XD.
+Sviluppatore Full Stack Junior con solida formazione biennale nello stack Java/Spring Boot e attuale esperienza professionale nello sviluppo di web application con Python e Django. Grazie a un approccio AI-Driven, ho maturato una spiccata capacità di apprendimento rapido di nuovi framework, che applico per ottimizzare il ciclo di sviluppo e la qualità del codice. Unisco una forte sensibilità per la UX/UI alla precisione tecnica nel realizzare interfacce pixel-perfect. Opero con metodologie Agile e sono orientato alla risoluzione proattiva dei problemi tecnici e funzionali.
+Aderente al Programma GOL (Garanzia Occupabilità Lavoratori)
 
 ---
 ## ESPERIENZA LAVORATIVA
 ---
+#### Sviluppatore Web Full Stack (Tirocinante) | Istituto G. Meschini S.R.L.
+*Roma, Italia | 19/02/2026 - 20/03/2026*
+*   Sviluppo Full Stack (Django/Python): Realizzazione del portale "MeschiniJob" (in costruzione) per l'incontro domandaofferta.
+Tra i tanti task, quello che ho preferito è stato implementatare la logica di validazione tramite Codice Fiscale
+per l'abilitazione degli utenti basata sui dati istituzionali.
+*   UI/UX & Analisi: Progettazione di interfacce dinamiche e ottimizzazione dei flussi utente, traducendo i requisiti
+funzionali in soluzioni tecniche orientate all'usabilità del portale.
+*   Metodologia Agile: Gestione operativa dei task tramite workflow Agile (Sprint Planning, Daily Scrum, Sprint Review) e
+coordinamento del codice in ambiente di collaborazione asincrona.
+
 #### Tecnico Help Desk IT 24/7 | LASER ROMAE S.R.L.
 *Roma, Italia | 12/2023 - 02/2024*
 *   Ruolo operativo su turnazione H24/7 per il cliente COTRAL.
@@ -101,8 +112,8 @@ Sviluppatore full-stack con competenze consolidate nella realizzazione di applic
 ---
 *   **Sviluppo Web:**
     *   *Frontend:* HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, Angular.
-    *   *Backend:* Java, Spring Boot, Spring Security.
-    *   *Database:* SQL.
+    *   *Backend:* Java, Python, Spring Boot, Django.
+    *   *Database:* MySQL, PostgreSQL, SQLite.
     *   *Strumenti e Metodologie:* Git, Docker, Agile, Scrum.
     *   *CMS:* WordPress, WooCommerce.
 *   **UX / UI:**
@@ -120,7 +131,7 @@ Sviluppatore full-stack con competenze consolidate nella realizzazione di applic
 ---
 ## ALTRE INFORMAZIONI
 ---
-*   **Hobby e Interessi:** Appassionato di musica, suono batteria, chitarra, basso e, quando posso, mi dedico anche al canto. Grande estimatore di cinema, in particolare di fantascienza. Mi interessano l'alta fedeltà, la fotografia, il mondo dei motori in tutte le sue forme e i videogames. In generale, un nerd poliedrico con molte passioni trasversali.
+*   **Hobby e Interessi:** Appassionato di musica, suono batteria, chitarra, basso e, quando posso, mi dedico anche al canto. Grande estimatore di cinema, in particolare di fantascienza. Mi interessano l'alta fedeltà, la fotografia, il mondo dei motori in tutte le sue forme e i videogames. In pratica, un nerd poliedrico con molte passioni trasversali.
 *   **Patente di Guida:** A, B
 *   **Comunicazione:** Comprendere appieno le esigenze e i feedback di clienti, designer e altri membri del team, e tradurre informazioni complesse per interlocutori non tecnici.
 *   **Organizzazione:** Definire obiettivi, scadenze e risorse per lo sviluppo di applicazioni web, stabilendo priorità e rispettando le scadenze in ambienti di lavoro dinamici.
